@@ -1,5 +1,8 @@
 ### Hi there 👋
+I love programming.
 
+Work less, play more.
+Automates all the way.
 <!--
 **akmalcm/akmalcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
