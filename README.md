@@ -1,5 +1,4 @@
-### Hi there 👋
-I love programming.
+### Hi there 👋, Akmal here
 
 Work less, play more.
 Automates all the way.
