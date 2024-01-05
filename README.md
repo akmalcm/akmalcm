@@ -3,7 +3,7 @@
 Work less, play more.
 Automates all the way.
 
-[akmalcm.github.io](akmalcm.github.io)
+[akmalcm.github.io](https://akmalcm.github.io/)
 <!--
 **akmalcm/akmalcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
